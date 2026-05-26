@@ -83,4 +83,4 @@ Real-time telemetry and communication infrastructure for autonomous UAV and USV 
 - GitHub: https://github.com/merve-karagulle
 - LinkedIn: https://linkedin.com/in/merve-karagulle-yazilim
 - Email: mervekrgll44@icloud.com
-- 
+
