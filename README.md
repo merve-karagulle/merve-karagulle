@@ -13,7 +13,6 @@ Software Engineering student passionate about Autonomous Systems, Embedded AI, R
 
 - 🎓 Software Engineering Student at Fırat University (GPA: 3.82/4.00)
 - 🚤 Team Captain of MAVERA Marine – TEKNOFEST Unmanned Surface Vehicle Team
-- ✈️ Embedded Systems Lead at MERGEN Combat UAV Team
 - 🧠 TÜBİTAK 2247-C STAR Research Intern
 - 🔬 TÜBİTAK 2209-A Funded Research Project Developer
 
