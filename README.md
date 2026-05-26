@@ -1,27 +1,80 @@
-👋 Hi, I’m @merve-karagulle — a passionate and curious Software Engineering student driven by the power of technology to create impactful, real-world solutions.
-💻 I specialize in web development (HTML, CSS, JavaScript, PHP, SQL), database design & optimization, and interactive front-end experiences.
-🔌 I also love exploring the world of Arduino programming using Tinkercad, building smart systems and simulations that combine creativity with hardware logic.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merve-karagulle&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merve-karagulle&layout=compact)
 
-🌱 Currently, I’m deepening my skills in:
+# Hi, I'm Merve Karagülle 👋
 
-⚙️ Advanced web technologies (React, RESTful APIs, full-stack architecture)
+Software Engineering student passionate about Autonomous Systems, Embedded AI, Robotics, and Unmanned Vehicle Technologies, with hands-on experience in UAV and USV development.
 
-🗄️ Efficient database structures and performance tuning
+---
 
-🛠️ Arduino-based automation projects with sensors and motor control
+## 🚀 About Me
 
-💡 I enjoy designing sleek, functional web interfaces, optimizing backend systems, and prototyping hardware projects that solve real-world problems — from line-following robots to multi-motor platforms.
+- 🎓 Software Engineering Student at Fırat University (GPA: 3.82/4.00)
+- 🚤 Team Captain of MAVERA Marine – TEKNOFEST Unmanned Surface Vehicle Team
+- ✈️ Embedded Systems Lead at MERGEN Combat UAV Team
+- 🧠 TÜBİTAK 2247-C STAR Research Intern
+- 🔬 TÜBİTAK 2209-A Funded Research Project Developer
 
-🤝 I’m always excited to collaborate on projects related to:
+---
 
-🌐 Modern and accessible web applications
+## 🔍 Interests
 
-🧠 Innovative front-end design
+- Autonomous Vehicles
+- ROS2
+- Embedded Systems
+- Computer Vision
+- Embedded AI
+- Sensor Fusion
+- MAVLink Communication
+- Real-Time Systems
 
-🧩 Smart systems using Arduino + sensors
+---
 
-💾 Powerful database-driven platforms
+## 🛠️ Technologies & Tools
 
-📬 Feel free to reach out: mervekrgll44@icloud.com
-😄 Pronouns: She/Her
-⚡ Fun fact: Whether it’s code, circuit, or concept — I thrive on turning ideas into working realities. I’m also that person who gets a thrill from debugging both web code and microcontrollers late at night 😄
+### Languages
+Python • C/C++ • Java • SQL • PHP • JavaScript
+
+### Robotics & Embedded
+ROS2 • STM32 • ESP32 • Arduino • Pixhawk • CubeOrange+ • MAVLink
+
+### AI & Vision
+YOLOv8 • OpenCV • Sensor Fusion • Autonomous Navigation
+
+### Tools
+Git • GitHub • Docker • Linux • VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🚤 MAVERA-T Autonomous USV
+ROS2-based autonomous unmanned surface vehicle developed for TEKNOFEST 2026 with real-time telemetry, computer vision, and autonomous navigation capabilities.
+
+### ♻️ AI-Supported Smart Waste Sorting System
+TÜBİTAK 2209-A funded AI-powered waste management, user behavior analysis, and mobile awareness platform.
+
+### 🧠 Federated Learning in Healthcare Systems
+Privacy-preserving distributed machine learning research under TÜBİTAK 2247-C STAR.
+
+### 📡 Embedded Telemetry & MAVLink Systems
+Real-time telemetry and communication infrastructure for autonomous UAV and USV systems.
+
+---
+
+## 🎯 Current Focus
+
+- Autonomous Navigation Systems
+- ROS2-based Robotics Architectures
+- Embedded AI for Unmanned Vehicles
+- Real-Time Telemetry Infrastructure
+- Computer Vision & Sensor Fusion
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/merve-karagulle
+- LinkedIn: https://linkedin.com/in/merve-karagulle-yazilim
+- Email: mervekrgll44@icloud.com
+- 
