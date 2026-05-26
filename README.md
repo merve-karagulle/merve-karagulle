@@ -1,9 +1,5 @@
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merve-karagulle&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merve-karagulle&layout=compact&theme=tokyonight)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=merve-karagulle&color=blueviolet)
 
 </div>
