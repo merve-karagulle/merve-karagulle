@@ -1,6 +1,12 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merve-karagulle&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merve-karagulle&layout=compact)
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merve-karagulle&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merve-karagulle&layout=compact&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=merve-karagulle&color=blueviolet)
+
+</div>
 # Hi, I'm Merve Karagülle 👋
 
 Software Engineering student passionate about Autonomous Systems, Embedded AI, Robotics, and Unmanned Vehicle Technologies, with hands-on experience in UAV and USV development.
