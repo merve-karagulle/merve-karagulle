@@ -5,20 +5,20 @@
 </div>
 # Hi, I'm Merve Karagülle 👋
 
-Software Engineering student passionate about Autonomous Systems, Embedded AI, Robotics, and Unmanned Vehicle Technologies, with hands-on experience in UAV and USV development.
+Software Engineering student passionate about Autonomous Systems, Embedded AI, Robotics and Unmanned Vehicle Technologies, with hands-on experience in UAV and USV development.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Software Engineering Student at Fırat University (GPA: 3.82/4.00)
-- 🚤 Team Captain of MAVERA Marine – TEKNOFEST Unmanned Surface Vehicle Team
-- 🧠 TÜBİTAK 2247-C STAR Research Intern
-- 🔬 TÜBİTAK 2209-A Funded Research Project Developer
+- Software Engineering Student at Firat University (GPA: 3.82/4.00)
+- Team Captain of MAVERA Marine – TEKNOFEST Unmanned Surface Vehicle Team
+- TÜBİTAK 2247-C STAR Research Intern
+- TÜBİTAK 2209-A Funded Research Project Developer
 
 ---
 
-## 🔍 Interests
+## Interests
 
 - Autonomous Vehicles
 - ROS2
@@ -31,7 +31,7 @@ Software Engineering student passionate about Autonomous Systems, Embedded AI, R
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 Python • C/C++ • Java • SQL • PHP • JavaScript
